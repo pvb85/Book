@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Implementation-Title: onlinebookshoping
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: vykuntarao.erothu
+Built-By: palivela.veerababu
 Implementation-Vendor-Id: com.hcl.syn
 Build-Jdk: 1.8.0_191
 Implementation-URL: http://projects.spring.io/spring-boot/onlinebooksh
